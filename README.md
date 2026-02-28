@@ -51,6 +51,6 @@ Estrutura:
 gcc super_trunfo.c -o super_trunfo
 ./super_trunfo
 
-📌 Autor
-
-Projeto acadêmico — ADS.
+## 📌 Autor
+Victor Maciel  
+Curso: Análise e Desenvolvimento de Sistemas
