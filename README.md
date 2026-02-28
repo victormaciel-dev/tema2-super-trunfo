@@ -50,7 +50,3 @@ Estrutura:
 ```bash
 gcc super_trunfo.c -o super_trunfo
 ./super_trunfo
-
-## 📌 Autor
-Victor Maciel  
-Curso: Análise e Desenvolvimento de Sistemas
